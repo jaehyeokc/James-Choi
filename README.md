@@ -72,6 +72,14 @@ http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.s
 ![5](https://user-images.githubusercontent.com/62459675/77246680-c7fa4180-6c7d-11ea-9d35-386f579d453b.PNG)
 https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=3.8,3.8,3.3,3.9,4#_V
 
+The results of these tests mean that I'm the type of person who tends to be creative, inspiring and convincing as well as decisive when it came to the Myers-Briggs test.<br/>
+When it comes to the learning style: I'm a auditory and visual learner.<br/>
+
+These results may have a positive influence when working in a team as being able to plan out the goal when it comes to projects in the very beginning and being able to choose which team member does certain work and being decisive in order to have the best possible outcome for the team. Being a auditory and visual learn means that I'll be able to connect with most of the learning styles with most of the team members as around 87% of the people are either auditory or visual learners or combination of both.<br/>
+
+When forming a team, it's important to be able to form a team with similar learning styles so there is no conflict between teammates but having a variety of different personality traits within a team is also an important factor as having a different qualities and perspective can bring positive end results.
+
+
 
 
 
