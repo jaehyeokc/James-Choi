@@ -89,6 +89,9 @@ Developing a built-in-home Voice Activation Ordering System which will enable us
 ## Motivation – why will this be useful? What are the stats and facts?
 
 
+![stats](https://user-images.githubusercontent.com/62459675/77249620-a3f72a00-6c96-11ea-8d26-e8311f7aa31d.png)
+
+
 The motivation behind this start-up project is to already ride the current wave of millennials being too lazy to go out and enjoy the good old traditional way of eating in a venue or a restaurant. As days go by more and more people are using the currently popular app UberEATS to get their food delivered to their doorsteps while they are already playing their favorite show in the background in their living room. “Australians are spending an incredible $2.6 billion each year on food and drink delivery through companies such as Menulog, UberEATS, Deliveroo and Foodora” and the spending will only grow. (According to article written by news.com.au). Being able to take full advantage of current habits of millennials wanting more convenience in their lives will make this start-up a great success. 
 
 ## Description – features and benefits of products in detail
@@ -119,9 +122,12 @@ Skills that are required to complete this project with great efficiencies and su
 ## Outcome
 
 
+![thought-desired-outcome](https://user-images.githubusercontent.com/62459675/77249666-def95d80-6c96-11ea-999f-ba1f6b26040b.jpg)
+
+
 Once the start-up project is finished and successful – the outcome and the result will be astonishing. It will be something that will take a bit of time to get popular and widely used however as someone who’s continuously seeking ways that technology can make our lives better, it will soon take over how consumers purchase online goods; whether that’s food, essential items, groceries or personal items, etc. This will bring more productivity into our daily lives, just like how being able to order online is helping all of us save time by being efficient and quick. 
 
-**This project will begin 2021 and we plan to complete this by 2023 and have a beta version tested by the market by then. 
+**This project will begin 2021 and we plan to complete this by 2023 and have a beta version tested by the market by then.**
 
 ## References:
 
