@@ -50,6 +50,27 @@ Have a strong understanding of Data Structures or Algorithms
 
 The skills, qualifications and experience I currently have are very minimal and not up to the level yet to apply for this position. I will practice programming on a daily basis to get my level of competencies up to par and continue with my university studies and study data structures and algorithms on the side. On top of that I will aim to complete a project whether that is big or small; one project per two months on top of all my current work that I am doing. 
 
+# Personal Profile 
+
+**Myers Briggs**
+
+![Myers Briggs](https://user-images.githubusercontent.com/62459675/77246645-823d7900-6c7d-11ea-8969-08e041d6b57e.PNG)
+https://www.16personalities.com/infj-personality
+
+**Online Learning Style** 
+
+![Online](https://user-images.githubusercontent.com/62459675/77246666-ac8f3680-6c7d-11ea-8929-566bee21daa3.PNG)
+![online 2](https://user-images.githubusercontent.com/62459675/77246664-ab5e0980-6c7d-11ea-8c28-11867a3c55f0.PNG)
+http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=7&V=7&T=6
+
+**Big Five**
+
+![1](https://user-images.githubusercontent.com/62459675/77246676-c597e780-6c7d-11ea-9b7e-d82138081599.PNG)
+![2](https://user-images.githubusercontent.com/62459675/77246677-c6c91480-6c7d-11ea-946e-bc3b51725162.PNG)
+![3](https://user-images.githubusercontent.com/62459675/77246678-c761ab00-6c7d-11ea-9752-0062061c137e.PNG)
+![4](https://user-images.githubusercontent.com/62459675/77246679-c761ab00-6c7d-11ea-8658-2e7969917ad0.PNG)
+![5](https://user-images.githubusercontent.com/62459675/77246680-c7fa4180-6c7d-11ea-9d35-386f579d453b.PNG)
+https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=3.8,3.8,3.3,3.9,4#_V
 
 
 
