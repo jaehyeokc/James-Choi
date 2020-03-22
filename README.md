@@ -25,19 +25,23 @@ I expect to learn the fundamental basics when it comes to Information Technology
 
 https://careers.google.com/jobs/results/126321711420187334/
 
-The job advertisement itself. Include a link, and a snapshot of it (in case the link
-expires before the assignment deadline).
-• A description (in your own words) of the position, and particularly what makes this
-position appealing to you.
-• A description (in your own words) of the skills, qualifications and experience required
-for the position.
-• A description (in your own words) of the skills, qualifications and experience you
-currently have.
-• A plan describing how you will obtain the skills, qualifications and experience required
-for the position, building on those you have now. This need not be greatly detailed,
-(and will probably change significantly over time anyway), but try to be as specific as
-you can
+![Capture](https://user-images.githubusercontent.com/62459675/77245179-c24a2f00-6c70-11ea-8dbf-bcf6cb6703b1.PNG)
 
+Google's Software Engineering job will invovle developing the next-generation technologies to better connect billions of users and improve the ability to interact with information and one another. 
+
+There are variety of opportunities and areas you can work on including but not limited to: information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile. 
+
+As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+
+This job positions appeals to me as a student who is studying IT, as it opens up a lot of opportunities in regards to different pathways you can pursue as a career.
+
+**Minimum qualifications are as follows:**
+
+Currently pursuing a BS, MS or PhD in Computer Science
+Experienced with one or more programming language
+Have a strong understanding of Data Structures or Algorithms
+
+The skills, qualifications and experience I currently have are very minimal and not up to the level yet to apply for this position. I will practice programming on a daily basis to get my level of competencies up to par and continue with my university studies and study data structures and algorithms on the side. On top of that I will aim to complete a project whether that is big or small; one project per two months on top of all my current work that I am doing. 
 
 
 
