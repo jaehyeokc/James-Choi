@@ -29,6 +29,8 @@ https://careers.google.com/jobs/results/126321711420187334/
 
 Google's Software Engineering job will invovle developing the next-generation technologies to better connect billions of users and improve the ability to interact with information and one another. 
 
+![depositphotos_73579235-stock-photo-diverse-people-and-connecting-online](https://user-images.githubusercontent.com/62459675/77245527-456c8480-6c73-11ea-94fc-a703721b103f.jpg)
+
 There are variety of opportunities and areas you can work on including but not limited to: information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile. 
 
 As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
