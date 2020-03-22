@@ -8,6 +8,10 @@
 **Languages Spoken**: English/ Korean<br/>
 **Hobbies**: Gym/ Soccer/ Playing Piano<br/> 
 
+# Interest in IT
+
+
+
 
 
 
