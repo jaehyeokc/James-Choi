@@ -23,6 +23,7 @@ I expect to learn the fundamental basics when it comes to Information Technology
 
 **Software Engineer, University Graduate**
 
+
 https://careers.google.com/jobs/results/126321711420187334/
 
 ![Capture](https://user-images.githubusercontent.com/62459675/77245179-c24a2f00-6c70-11ea-8dbf-bcf6cb6703b1.PNG)
@@ -33,11 +34,15 @@ Google's Software Engineering job will invovle developing the next-generation te
 
 There are variety of opportunities and areas you can work on including but not limited to: information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile. 
 
+![software-engineering-skills_resize_md](https://user-images.githubusercontent.com/62459675/77245558-78af1380-6c73-11ea-8f94-03e1e714a8cd.jpg)
+
 As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
 
 This job positions appeals to me as a student who is studying IT, as it opens up a lot of opportunities in regards to different pathways you can pursue as a career.
 
+
 **Minimum qualifications are as follows:**
+
 
 Currently pursuing a BS, MS or PhD in Computer Science
 Experienced with one or more programming language
